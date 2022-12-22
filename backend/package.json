@@ -11,7 +11,7 @@
     "ah-jwtauth2-plugin": "^0.4.1",
     "ah-shopify-auth-plugin": "0.0.29",
     "ioredis": "latest",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.5.7",
     "nodejs-base64": "^1.0.3",
     "winston": "latest",
